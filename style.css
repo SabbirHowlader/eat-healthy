@@ -26,3 +26,46 @@
 h1{
     font-size: xx-large;
 }
+.about-me{
+    background-image: url(image/bg-female.png);
+    height: 400px;
+
+   
+}
+.half-width2{
+    text-align: center;
+    padding-right: 20px 60px;
+    margin-left: 25%;
+    padding-top: 80px;
+
+}
+.experience-iteam{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    box-shadow: 10px 10px 40px;
+}
+.experience-area{
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 10px 10px;
+}
+#full-stack-developer{
+   border-radius:10px solid ;
+}
+.last-iteam{
+    text-align: center;
+    padding-right: 20px 60px;
+    margin-left: 25%;
+    padding-top: 80px;
+    font-size: xx-large;
+    width: 50%;
+
+}
+footer{
+    background-color:gray;
+    text-align: center;
+    height: 200px;
+    padding-top: 20px;
+}
